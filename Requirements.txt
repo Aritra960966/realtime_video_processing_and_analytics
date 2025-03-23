@@ -1,0 +1,16 @@
+torch
+torchvision
+opencv-python
+numpy
+scikit-learn
+matplotlib
+seaborn
+Pillow
+tqdm
+PyYAML
+scipy
+streamlit
+psutil
+pycocotools
+tensorboard
+ultralytics

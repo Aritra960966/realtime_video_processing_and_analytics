@@ -1,0 +1,924 @@
+1.0: 
+2.0: 
+3.0: 
+4.0: pizza
+5.0: potted plant
+6.0: potted plant
+7.0: potted plant, boat
+8.0: 
+9.0: 
+10.0: 
+11.0: sandwich
+12.0: sandwich
+13.0: 
+14.0: sandwich
+15.0: sandwich
+16.0: sandwich, cake, pizza
+17.0: 
+18.0: 
+19.0: sandwich, sandwich
+20.0: 
+21.0: sandwich
+22.0: sandwich, sandwich
+23.0: sandwich, sandwich
+24.0: sandwich, sandwich
+25.0: sandwich, sandwich
+26.0: sandwich
+27.0: 
+28.0: sandwich
+29.0: sandwich, sandwich
+30.0: sandwich
+31.0: sandwich
+32.0: sandwich, sandwich, sandwich
+33.0: sandwich, sandwich
+34.0: sandwich, sandwich
+35.0: sandwich
+36.0: sandwich, cake
+37.0: cake, sandwich
+38.0: sandwich, cake
+39.0: sandwich
+40.0: sandwich
+41.0: 
+42.0: sandwich
+43.0: 
+44.0: cake
+45.0: sandwich
+46.0: 
+47.0: 
+48.0: 
+49.0: fire hydrant
+50.0: sandwich
+51.0: sandwich
+52.0: 
+53.0: sandwich
+54.0: 
+55.0: 
+56.0: 
+57.0: 
+58.0: 
+59.0: 
+60.0: 
+61.0: 
+62.0: sandwich, cake
+63.0: 
+64.0: 
+65.0: person, person
+66.0: person, person, person
+67.0: person, person
+68.0: person, person, umbrella, person
+69.0: person, chair, kite
+70.0: person, chair
+71.0: chair, person, tv, bed, person
+72.0: person, chair, tv
+73.0: person, chair, tv
+74.0: chair, person
+75.0: person, chair
+76.0: person, chair
+77.0: chair, person
+78.0: chair, person
+79.0: person
+80.0: person
+81.0: person
+82.0: person
+83.0: person
+84.0: person
+85.0: person
+86.0: person
+87.0: person
+88.0: person
+89.0: person
+90.0: person
+91.0: person
+92.0: person
+93.0: person
+94.0: person
+95.0: person
+96.0: person
+97.0: person
+98.0: person
+99.0: person
+100.0: person
+101.0: person
+102.0: person
+103.0: person
+104.0: person
+105.0: person
+106.0: person
+107.0: person
+108.0: person
+109.0: person
+110.0: hot dog, bowl, banana, bowl
+111.0: hot dog, bowl, banana
+112.0: hot dog, bowl, banana, bowl
+113.0: hot dog, bowl, banana, bowl
+114.0: hot dog, bowl, banana, bowl
+115.0: hot dog, bowl
+116.0: hot dog, bowl, cup
+117.0: hot dog, bowl, cup
+118.0: hot dog, bowl, cup
+119.0: hot dog, bowl, cup, bowl, bowl
+120.0: hot dog, bowl, cup, bowl, bowl
+121.0: hot dog, bowl, cup, bowl, bowl
+122.0: hot dog, bowl, cup, bowl
+123.0: hot dog, bowl, bowl, hot dog, cup
+124.0: hot dog, bowl, bowl, dining table
+125.0: hot dog, bowl, bowl, dining table
+126.0: hot dog, bowl, bowl, dining table
+127.0: hot dog, bowl, bowl, dining table, hot dog
+128.0: hot dog, bowl, bowl, dining table, hot dog
+129.0: hot dog, bowl, bowl, hot dog
+130.0: hot dog, bowl, bowl, hot dog, dining table
+131.0: hot dog, bowl, bowl, hot dog, dining table
+132.0: hot dog, bowl, bowl, hot dog, dining table
+133.0: hot dog, bowl, bowl, hot dog, dining table
+134.0: hot dog, bowl, hot dog, bowl, dining table
+135.0: hot dog, bowl, hot dog, bowl
+136.0: hot dog, bowl, bowl, hot dog
+137.0: hot dog, bowl, bowl, hot dog, dining table
+138.0: hot dog, bowl, hot dog, bowl
+139.0: hot dog, bowl, hot dog, bowl, dining table
+140.0: hot dog, bowl, hot dog, bowl, dining table
+141.0: hot dog, bowl, hot dog, bowl, dining table
+142.0: hot dog, bowl, hot dog, bowl, dining table
+143.0: hot dog, bowl, hot dog, bowl, dining table
+144.0: hot dog, bowl, bowl, hot dog, dining table
+145.0: hot dog, bowl, bowl, hot dog, dining table
+146.0: hot dog, bowl, hot dog, bowl, dining table
+147.0: hot dog, bowl, hot dog, bowl, dining table
+148.0: hot dog, bowl, hot dog, bowl, dining table
+149.0: hot dog, bowl, hot dog, bowl, dining table
+150.0: hot dog, bowl, hot dog, bowl, dining table
+151.0: hot dog, bowl, hot dog, bowl, dining table
+152.0: hot dog, bowl, hot dog, bowl, dining table
+153.0: hot dog, bowl, hot dog, bowl, dining table
+154.0: hot dog, bowl, hot dog, bowl, dining table
+155.0: hot dog, bowl, hot dog, bowl, dining table
+156.0: hot dog, bowl, hot dog, bowl, dining table
+157.0: hot dog, bowl, hot dog, bowl, dining table
+158.0: cup, person, person, banana, dining table, bowl, hot dog
+159.0: cup, banana, person, person, dining table, bowl
+160.0: cup, banana, person, person, dining table, bowl
+161.0: cup, banana, person, person, dining table, bowl
+162.0: cup, banana, person, person, dining table, bowl
+163.0: cup, banana, person, person, dining table, bowl
+164.0: cup, banana, person, person, dining table, bowl
+165.0: cup, banana, person, person, dining table, bowl
+166.0: cup, banana, person, person, dining table, bowl
+167.0: cup, banana, person, person, dining table, bowl
+168.0: cup, person, banana, person, dining table, bowl, hot dog
+169.0: cup, person, banana, person, dining table, bowl, hot dog
+170.0: cup, person, banana, person, dining table, bowl, hot dog
+171.0: cup, person, banana, person, dining table, bowl
+172.0: cup, person, banana, person, dining table, bowl
+173.0: cup, person, banana, person, dining table, bowl, hot dog
+174.0: cup, person, banana, person, dining table, bowl
+175.0: cup, person, banana, person, dining table, bowl, hot dog
+176.0: cup, person, banana, person, dining table, bowl, hot dog
+177.0: cup, person, banana, person, dining table, bowl, hot dog
+178.0: cup, person, banana, person, dining table, bowl, hot dog
+179.0: cup, person, banana, person, dining table, bowl, hot dog
+180.0: cup, person, banana, person, dining table, bowl, hot dog
+181.0: cup, person, banana, person, dining table, bowl, hot dog
+182.0: cup, person, banana, person, dining table, bowl, hot dog
+183.0: cup, person, banana, person, dining table, bowl, hot dog
+184.0: cup, person, banana, person, dining table, bowl, hot dog
+185.0: cup, person, banana, person, dining table, bowl, hot dog
+186.0: cup, person, banana, person, dining table, bowl, hot dog
+187.0: cup, person, banana, person, dining table, bowl, hot dog
+188.0: cup, person, banana, person, dining table, bowl, hot dog
+189.0: cup, person, banana, person, dining table, bowl, hot dog
+190.0: cup, person, banana, person, dining table, bowl, hot dog
+191.0: cup, person, banana, person, dining table, bowl, hot dog
+192.0: cup, person, banana, person, dining table, bowl, hot dog
+193.0: cup, person, banana, person, dining table, bowl, hot dog
+194.0: cup, person, banana, person, dining table, bowl, hot dog
+195.0: cup, person, banana, person, dining table, bowl, hot dog
+196.0: cup, banana, person, person, dining table, bowl, hot dog
+197.0: cup, banana, person, person, dining table, bowl, hot dog
+198.0: cup, banana, person, person, dining table, bowl, hot dog
+199.0: cup, banana, person, person, dining table, bowl, hot dog
+200.0: cup, banana, person, person, dining table, bowl, hot dog
+201.0: cup, banana, person, person, dining table, bowl, hot dog
+202.0: cup, person, person, banana, dining table, bowl, hot dog
+203.0: cup, person, person, banana, dining table, bowl, hot dog
+204.0: cup, person, person, banana, dining table, bowl, hot dog
+205.0: cup, person, person, banana, dining table, bowl, hot dog
+206.0: cup, person, person, banana, dining table, bowl, hot dog
+207.0: cup, person, person, banana, dining table, bowl, hot dog
+208.0: cup, person, person, banana, dining table, bowl, hot dog
+209.0: cup, person, person, banana, dining table, bowl, hot dog
+210.0: cup, person, person, banana, dining table, bowl, hot dog
+211.0: cup, person, person, banana, dining table, bowl, hot dog
+212.0: cup, person, person, banana, dining table, bowl, hot dog
+213.0: cup, person, person, banana, dining table, bowl, hot dog
+214.0: cup, person, person, banana, dining table, bowl, hot dog
+215.0: dining table
+216.0: dining table
+217.0: dining table
+218.0: dining table
+219.0: dining table
+220.0: dining table
+221.0: dining table
+222.0: dining table
+223.0: dining table
+224.0: dining table
+225.0: dining table
+226.0: dining table
+227.0: dining table
+228.0: dining table
+229.0: dining table
+230.0: dining table
+231.0: dining table
+232.0: dining table
+233.0: dining table
+234.0: dining table
+235.0: dining table
+236.0: dining table
+237.0: dining table
+238.0: dining table
+239.0: dining table
+240.0: dining table
+241.0: dining table
+242.0: dining table
+243.0: dining table
+244.0: dining table
+245.0: dining table
+246.0: dining table
+247.0: dining table
+248.0: dining table
+249.0: dining table
+250.0: dining table
+251.0: dining table
+252.0: dining table
+253.0: dining table
+254.0: dining table
+255.0: dining table
+256.0: dining table
+257.0: dining table
+258.0: dining table
+259.0: 
+260.0: dining table
+261.0: 
+262.0: dining table
+263.0: 
+264.0: 
+265.0: dining table
+266.0: dining table
+267.0: dining table
+268.0: dining table
+269.0: dining table
+270.0: donut, donut, donut
+271.0: pizza, pizza, pizza
+272.0: pizza, pizza
+273.0: donut, pizza
+274.0: donut, pizza
+275.0: donut, pizza, pizza, donut
+276.0: donut, pizza
+277.0: donut, donut, pizza, donut
+278.0: donut, donut
+279.0: donut, donut, pizza
+280.0: donut, donut, donut, pizza, donut
+281.0: donut, donut, donut, pizza, donut, donut
+282.0: donut, donut, donut, donut
+283.0: donut, donut, donut, donut
+284.0: donut, donut, pizza, donut, donut
+285.0: donut, pizza, donut, donut
+286.0: donut, donut, donut, donut
+287.0: donut, donut, pizza, donut, donut
+288.0: donut, donut, pizza
+289.0: donut, donut, donut
+290.0: donut, donut, donut
+291.0: donut, donut, donut
+292.0: donut, donut, pizza, donut
+293.0: donut, donut, pizza, donut
+294.0: donut, donut, pizza, donut
+295.0: donut, donut, pizza, donut
+296.0: donut, donut, pizza, donut
+297.0: donut, donut, pizza
+298.0: donut, donut, pizza
+299.0: pizza, pizza, donut
+300.0: pizza, donut, pizza
+301.0: pizza, pizza
+302.0: pizza
+303.0: donut, pizza
+304.0: pizza, pizza, donut
+305.0: donut, pizza
+306.0: donut, pizza
+307.0: pizza, donut
+308.0: pizza, donut, pizza
+309.0: pizza, pizza, donut
+310.0: donut, pizza
+311.0: donut, pizza, donut, donut
+312.0: donut, pizza, donut
+313.0: donut, pizza, donut, donut, donut
+314.0: donut, donut, pizza, donut, donut, donut
+315.0: donut, pizza, donut, donut, donut
+316.0: donut, donut, donut, pizza
+317.0: donut, donut, pizza, donut
+318.0: donut, donut, donut, pizza
+319.0: donut, pizza, donut
+320.0: donut, pizza, donut, donut, pizza
+321.0: donut, donut, donut, donut, pizza
+322.0: donut, donut, donut, pizza, donut
+323.0: donut, donut, pizza, donut
+324.0: pizza, donut, donut
+325.0: donut, pizza, donut
+326.0: mouse, spoon
+327.0: mouse
+328.0: spoon
+329.0: spoon, mouse
+330.0: spoon
+331.0: bowl
+332.0: spoon
+333.0: spoon
+334.0: spoon, spoon
+335.0: spoon, dining table
+336.0: dining table, spoon
+337.0: spoon, dining table
+338.0: spoon
+339.0: spoon
+340.0: 
+341.0: 
+342.0: 
+343.0: spoon
+344.0: spoon
+345.0: dining table
+346.0: dining table
+347.0: dining table
+348.0: 
+349.0: 
+350.0: 
+351.0: spoon
+352.0: spoon, dining table
+353.0: dining table, spoon
+354.0: dining table, spoon
+355.0: dining table
+356.0: 
+357.0: 
+358.0: dining table, pizza
+359.0: dining table, spoon
+360.0: 
+361.0: 
+362.0: dining table
+363.0: dining table
+364.0: pizza, dining table
+365.0: dining table
+366.0: dining table
+367.0: dining table
+368.0: oven, dining table
+369.0: oven, dining table
+370.0: dining table, oven
+371.0: oven, dining table
+372.0: pizza, dining table
+373.0: dining table
+374.0: 
+375.0: dining table
+376.0: dining table
+377.0: dining table
+378.0: dining table
+379.0: hot dog, dining table
+380.0: hot dog, dining table
+381.0: hot dog, hot dog
+382.0: hot dog
+383.0: knife, knife, hot dog
+384.0: knife, knife
+385.0: knife
+386.0: knife, dining table
+387.0: 
+388.0: knife, hot dog
+389.0: knife, dining table
+390.0: knife
+391.0: knife, hot dog, dining table
+392.0: knife, knife, hot dog
+393.0: knife, hot dog
+394.0: knife, hot dog, hot dog
+395.0: knife, hot dog
+396.0: knife
+397.0: hot dog, knife
+398.0: knife
+399.0: donut, knife
+400.0: knife
+401.0: knife, donut
+402.0: knife
+403.0: donut, knife
+404.0: knife, donut, knife
+405.0: donut
+406.0: knife, knife, knife, donut
+407.0: donut, knife
+408.0: donut, knife, knife
+409.0: knife, knife
+410.0: knife
+411.0: knife, pizza, pizza
+412.0: knife, donut, knife
+413.0: knife, knife, donut
+414.0: knife, knife, donut, pizza
+415.0: knife, knife, donut, pizza, pizza, pizza
+416.0: pizza, knife, pizza
+417.0: pizza, knife
+418.0: pizza, knife, knife, donut
+419.0: pizza
+420.0: pizza
+421.0: pizza
+422.0: pizza
+423.0: pizza
+424.0: pizza, pizza
+425.0: pizza, pizza
+426.0: pizza
+427.0: pizza
+428.0: knife, knife
+429.0: pizza, pizza
+430.0: pizza, pizza
+431.0: pizza, pizza
+432.0: pizza, donut
+433.0: pizza, donut
+434.0: donut, pizza
+435.0: pizza
+436.0: pizza, donut
+437.0: knife, pizza
+438.0: 
+439.0: 
+440.0: 
+441.0: carrot
+442.0: carrot, donut, carrot
+443.0: donut, donut
+444.0: 
+445.0: 
+446.0: 
+447.0: 
+448.0: carrot
+449.0: 
+450.0: 
+451.0: 
+452.0: 
+453.0: carrot
+454.0: 
+455.0: 
+456.0: 
+457.0: carrot
+458.0: 
+459.0: 
+460.0: 
+461.0: carrot
+462.0: 
+463.0: 
+464.0: 
+465.0: 
+466.0: carrot
+467.0: 
+468.0: 
+469.0: 
+470.0: 
+471.0: 
+472.0: 
+473.0: 
+474.0: 
+475.0: 
+476.0: 
+477.0: 
+478.0: 
+479.0: 
+480.0: 
+481.0: 
+482.0: 
+483.0: 
+484.0: 
+485.0: 
+486.0: 
+487.0: 
+488.0: 
+489.0: 
+490.0: 
+491.0: 
+492.0: 
+493.0: 
+494.0: 
+495.0: carrot
+496.0: 
+497.0: 
+498.0: 
+499.0: 
+500.0: 
+501.0: 
+502.0: 
+503.0: carrot
+504.0: carrot
+505.0: carrot
+506.0: carrot
+507.0: 
+508.0: 
+509.0: 
+510.0: 
+511.0: carrot
+512.0: 
+513.0: 
+514.0: 
+515.0: 
+516.0: 
+517.0: 
+518.0: 
+519.0: 
+520.0: 
+521.0: 
+522.0: 
+523.0: 
+524.0: fire hydrant
+525.0: 
+526.0: 
+527.0: fire hydrant
+528.0: 
+529.0: 
+530.0: fire hydrant
+531.0: fire hydrant
+532.0: fire hydrant
+533.0: fire hydrant, carrot
+534.0: fire hydrant
+535.0: fire hydrant
+536.0: fire hydrant
+537.0: fire hydrant
+538.0: fire hydrant
+539.0: fire hydrant
+540.0: fire hydrant
+541.0: fire hydrant
+542.0: fire hydrant
+543.0: fire hydrant
+544.0: fire hydrant
+545.0: fire hydrant
+546.0: fire hydrant
+547.0: fire hydrant
+548.0: fire hydrant
+549.0: fire hydrant
+550.0: fire hydrant
+551.0: fire hydrant
+552.0: fire hydrant
+553.0: fire hydrant
+554.0: carrot
+555.0: carrot, fire hydrant
+556.0: fire hydrant, carrot
+557.0: fire hydrant
+558.0: fire hydrant
+559.0: fire hydrant
+560.0: bowl
+561.0: bowl
+562.0: bowl
+563.0: bowl
+564.0: bowl
+565.0: bowl, bowl, spoon
+566.0: bowl, apple, apple, apple
+567.0: bowl, apple, apple
+568.0: bowl, apple, bowl
+569.0: bowl, apple
+570.0: bowl, apple, apple, orange
+571.0: bowl, apple, apple, spoon
+572.0: bowl, apple
+573.0: bowl
+574.0: bowl, apple, bowl
+575.0: bowl
+576.0: bowl
+577.0: bowl, apple, apple
+578.0: bowl
+579.0: bowl, dining table
+580.0: bowl, apple
+581.0: bowl, apple
+582.0: bowl, apple
+583.0: bowl, apple
+584.0: bowl, toothbrush, apple
+585.0: bowl
+586.0: bowl
+587.0: bowl
+588.0: bowl
+589.0: bowl, apple
+590.0: bowl
+591.0: bowl
+592.0: bowl
+593.0: bowl
+594.0: bowl
+595.0: bowl, knife, knife, apple, knife
+596.0: bowl, knife, knife, apple
+597.0: bowl, knife, knife, knife, apple
+598.0: bowl, knife, knife, carrot, dining table, knife, apple
+599.0: bowl, knife, carrot, knife, dining table, apple, knife
+600.0: bowl, knife, carrot, knife, carrot
+601.0: bowl, knife, carrot, knife, carrot
+602.0: bowl, knife, knife, carrot, knife, dining table
+603.0: bowl, knife, carrot, knife, knife, knife, carrot
+604.0: bowl, knife, carrot, dining table, carrot
+605.0: knife, bowl, knife, spoon, dining table, knife, knife
+606.0: bowl, knife, knife, carrot
+607.0: bowl, knife, carrot, knife
+608.0: knife, apple, bowl, carrot
+609.0: knife, knife, carrot, carrot
+610.0: knife, knife, carrot, apple
+611.0: knife, knife, carrot, knife
+612.0: knife, knife
+613.0: knife, knife
+614.0: knife, knife
+615.0: dining table
+616.0: knife
+617.0: carrot, bowl, knife
+618.0: carrot
+619.0: bowl, carrot
+620.0: carrot
+621.0: carrot
+622.0: carrot, bowl
+623.0: carrot
+624.0: carrot
+625.0: 
+626.0: 
+627.0: 
+628.0: knife
+629.0: knife, carrot, knife
+630.0: banana, knife, carrot
+631.0: banana, carrot, banana
+632.0: banana, banana, carrot
+633.0: banana, banana, carrot
+634.0: banana, carrot
+635.0: carrot, banana, carrot, carrot
+636.0: carrot, banana
+637.0: carrot, banana
+638.0: carrot, banana
+639.0: banana, carrot
+640.0: banana
+641.0: banana
+642.0: banana
+643.0: banana
+644.0: banana
+645.0: banana, banana, banana
+646.0: donut, banana, banana, carrot
+647.0: donut, donut, banana
+648.0: donut
+649.0: donut
+650.0: apple
+651.0: donut, apple
+652.0: 
+653.0: carrot
+654.0: donut, donut
+655.0: donut
+656.0: bowl
+657.0: carrot, donut, bowl
+658.0: broccoli
+659.0: bowl
+660.0: broccoli, broccoli, bowl
+661.0: broccoli
+662.0: broccoli, broccoli
+663.0: broccoli, broccoli
+664.0: broccoli, broccoli, pizza
+665.0: broccoli, broccoli
+666.0: broccoli, broccoli
+667.0: broccoli, pizza
+668.0: broccoli, broccoli
+669.0: pizza, broccoli
+670.0: broccoli
+671.0: carrot
+672.0: carrot
+673.0: 
+674.0: banana
+675.0: bowl
+676.0: bowl
+677.0: carrot, bowl
+678.0: bowl
+679.0: carrot, bowl, carrot
+680.0: carrot, bowl
+681.0: carrot, bowl
+682.0: carrot, bowl, carrot, apple
+683.0: carrot, carrot, carrot, carrot, bowl
+684.0: carrot, carrot, carrot
+685.0: carrot, carrot
+686.0: carrot
+687.0: carrot, orange
+688.0: orange, banana, orange
+689.0: orange, orange
+690.0: carrot
+691.0: carrot, carrot
+692.0: bowl, orange
+693.0: 
+694.0: orange, carrot
+695.0: orange, carrot, banana
+696.0: orange, carrot
+697.0: orange, banana
+698.0: orange, bowl
+699.0: bowl, orange, carrot, orange
+700.0: carrot, bowl, orange
+701.0: carrot, bowl
+702.0: carrot, carrot, orange
+703.0: carrot, orange, bowl
+704.0: carrot, carrot
+705.0: apple, carrot
+706.0: orange
+707.0: carrot, orange, carrot
+708.0: orange, carrot, carrot
+709.0: carrot, carrot, orange, carrot, carrot
+710.0: carrot, carrot, carrot
+711.0: carrot, carrot, carrot
+712.0: carrot
+713.0: carrot, carrot, carrot
+714.0: carrot, carrot
+715.0: carrot, carrot, carrot, dining table
+716.0: carrot, carrot, dining table, carrot, bowl
+717.0: carrot, carrot
+718.0: carrot, carrot, carrot
+719.0: carrot, carrot, carrot, bowl
+720.0: carrot, carrot, carrot, carrot
+721.0: carrot, carrot, carrot, carrot
+722.0: carrot, carrot, carrot, carrot
+723.0: carrot, carrot, carrot, carrot, carrot
+724.0: carrot, carrot, carrot, carrot, carrot
+725.0: carrot
+726.0: carrot, apple, carrot
+727.0: carrot, carrot, carrot, apple, carrot, bowl, carrot
+728.0: carrot, carrot, apple, carrot, bowl, carrot
+729.0: carrot, carrot, apple, carrot, bowl, dining table
+730.0: carrot, carrot, dining table, apple
+731.0: carrot, carrot, carrot, dining table, bowl
+732.0: carrot, carrot, dining table, carrot
+733.0: carrot, cup, dining table
+734.0: carrot, bowl, cup, knife
+735.0: carrot, dining table
+736.0: carrot
+737.0: cup, carrot, bowl, dining table
+738.0: carrot, cup, bowl
+739.0: dining table, carrot, carrot, bowl, cup
+740.0: bowl, bowl, carrot, dining table
+741.0: bowl, bowl, dining table, carrot, carrot
+742.0: bowl, bowl, dining table, carrot
+743.0: bowl, bowl, dining table, carrot
+744.0: bowl, bowl, dining table, carrot
+745.0: bowl, bowl, carrot, dining table
+746.0: bowl, bowl, carrot, carrot, dining table
+747.0: bowl, bowl, carrot, carrot, dining table, carrot
+748.0: bowl, bowl, carrot, carrot, carrot, dining table
+749.0: bowl, bowl, carrot, carrot, dining table
+750.0: bowl, bowl, carrot, carrot, dining table
+751.0: bowl, bowl, carrot, carrot, dining table, carrot
+752.0: bowl, bowl, carrot, carrot, dining table, carrot
+753.0: bowl, dining table, bowl
+754.0: bowl, bowl, dining table, carrot
+755.0: bowl, carrot, bowl, dining table
+756.0: bowl, knife, vase, carrot, carrot, bowl, carrot
+757.0: bowl, knife, carrot, bowl, vase, carrot, carrot, dining table
+758.0: bowl, vase, knife, bowl, carrot, carrot, carrot, carrot, dining table
+759.0: bowl, vase, bowl, carrot, knife, carrot, carrot, carrot, dining table
+760.0: bowl, vase, carrot, bowl, carrot, carrot, knife, carrot
+761.0: bowl, vase, bowl, carrot, knife, carrot, carrot, carrot
+762.0: bowl, vase, bowl, carrot, carrot, knife
+763.0: bowl, bowl, vase, carrot, knife
+764.0: bowl, vase, carrot, bowl, carrot
+765.0: bowl, carrot, bowl, vase, carrot, carrot
+766.0: bowl, vase, carrot, bowl, carrot, dining table
+767.0: bowl, vase, bowl, carrot, carrot, dining table, carrot
+768.0: bowl, vase, dining table, bowl, carrot, carrot
+769.0: bowl, vase, carrot, dining table, knife, carrot, bowl, carrot
+770.0: bowl, vase, carrot, dining table, bowl, carrot, carrot, carrot
+771.0: bowl, vase, carrot, dining table, bowl, carrot, carrot
+772.0: bowl, vase, carrot, dining table, bowl
+773.0: bowl, vase, dining table, bowl, carrot
+774.0: bowl, vase, dining table, carrot, bowl, carrot, carrot
+775.0: bowl, vase, dining table, carrot
+776.0: bowl, dining table, carrot, vase, carrot
+777.0: bowl, dining table, vase
+778.0: banana
+779.0: banana
+780.0: banana
+781.0: banana
+782.0: banana
+783.0: banana
+784.0: 
+785.0: banana
+786.0: banana
+787.0: banana
+788.0: banana
+789.0: banana
+790.0: banana
+791.0: banana
+792.0: banana
+793.0: banana
+794.0: banana
+795.0: banana
+796.0: banana
+797.0: banana
+798.0: banana
+799.0: banana
+800.0: banana
+801.0: banana
+802.0: banana, person
+803.0: banana
+804.0: banana
+805.0: banana, bowl
+806.0: bowl, banana, person
+807.0: bowl, banana, person
+808.0: bowl, person, banana
+809.0: person, bowl, banana
+810.0: person
+811.0: person
+812.0: person
+813.0: person
+814.0: person, banana
+815.0: person, banana, carrot
+816.0: person, banana
+817.0: person, banana
+818.0: banana, person
+819.0: banana
+820.0: banana, orange
+821.0: 
+822.0: carrot
+823.0: 
+824.0: carrot
+825.0: carrot
+826.0: carrot
+827.0: orange, carrot
+828.0: 
+829.0: orange
+830.0: bowl
+831.0: bowl
+832.0: 
+833.0: 
+834.0: carrot
+835.0: 
+836.0: 
+837.0: 
+838.0: carrot
+839.0: bowl
+840.0: bowl
+841.0: bowl
+842.0: bowl
+843.0: bowl
+844.0: bowl
+845.0: bowl
+846.0: bowl
+847.0: bowl
+848.0: bowl
+849.0: bowl
+850.0: bowl
+851.0: bowl
+852.0: bowl
+853.0: bowl, banana
+854.0: bowl
+855.0: bowl
+856.0: bowl
+857.0: bowl, banana
+858.0: bowl
+859.0: bowl
+860.0: bowl
+861.0: bowl, banana
+862.0: bowl
+863.0: bowl
+864.0: bowl, banana
+865.0: bowl, banana
+866.0: bowl
+867.0: bowl
+868.0: bowl
+869.0: bowl
+870.0: bowl
+871.0: bowl
+872.0: bowl
+873.0: bowl
+874.0: bowl
+875.0: bowl
+876.0: bowl, banana
+877.0: 
+878.0: 
+879.0: banana
+880.0: person
+881.0: person
+882.0: person
+883.0: person
+884.0: person
+885.0: person
+886.0: person, banana
+887.0: person, banana, person
+888.0: person, person, banana
+889.0: person
+890.0: person
+891.0: person, banana
+892.0: person
+893.0: person
+894.0: person
+895.0: person
+896.0: person, bowl
+897.0: bowl
+898.0: person, bowl
+899.0: person, bowl
+900.0: person, bowl
+901.0: bowl
+902.0: 
+903.0: 
+904.0: bowl
+905.0: 
+906.0: 
+907.0: 
+908.0: 
+909.0: 
+910.0: vase
+911.0: vase
+912.0: vase
+913.0: 
+914.0: 
+915.0: vase, person
+916.0: vase
+917.0: 
+918.0: 
+919.0: person
+920.0: person, person
+921.0: person, person
+922.0: person
+923.0: person
+924.0: person
